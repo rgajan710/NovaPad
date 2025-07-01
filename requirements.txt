@@ -1,0 +1,29 @@
+# HoloMat2 Dependencies
+pygame==2.5.0
+python-dotenv==1.0.0
+
+# Jarvis Dependencies  
+RealtimeSTT
+openai
+ollama
+spotipy
+python-weather
+icrawler
+PyAudio
+SpeechRecognition
+torch
+torchvision
+torchaudio
+
+# Additional dependencies for combined features
+transformers
+opencv-python
+Pillow
+mediapipe
+numpy
+scipy
+websockets
+faster-whisper
+pvporcupine
+webrtcvad
+halo
